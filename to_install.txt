@@ -1,0 +1,15 @@
+# connect with WiFi, connect with mouse
+# change in Software & Updates: enable "Software restricted..."
+
+sudo apt-get update
+sudo apt-get install ubuntu-restricted-extras
+
+# not working - sudo snap refresh --channel=beta snap-store
+
+sudo snap install --classic code
+sudo apt install git
+
+# add terminal to taskbar
+# import music in Rythmbox 
+# add adblock to Firefox
+# set date/time, main screen
